@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي روحي تناديك
+> كل دقة بقلبي شاريك
+> في عيوني شفت الغرام
+> ليتني طول الليل أدفيك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
