@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/amanik-fi-3eny/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Apply for Music License: Amanik Fi 3eny](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Music Licensing for Amanik Fi 3eny](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
