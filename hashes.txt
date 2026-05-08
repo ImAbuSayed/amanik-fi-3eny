@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amanik Fi 3eny
+
+This log tracks the cryptographic history and versioning for the song **Amanik Fi 3eny** (amanik-fi-3eny).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T19:59:17.208471 | `v1` | `ccb7fc9a15f75c683b841733fadb7bcf3bb46d130175f032e2086d874643d3d6` | `4e62bda7c3d30401e6445f24343d2be80e7df5501819442b02bd424a472bbc6d` | `2026-05-08_amanik-fi-3eny-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
